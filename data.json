@@ -1,0 +1,14 @@
+{
+  "ivcErrors" : [
+
+  ],
+  "ivcSuccessfulVins": [
+    {
+      "vin" : "vin100",
+      "vin" : ""
+    }
+  ],
+  "ivcFailureVins" : [
+
+  ]
+}
